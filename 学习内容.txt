@@ -1,0 +1,28 @@
+springboot
+高性能代理服务器nginx
+负载均衡 微服务 分布式 LVS
+DNS CDN zk
+Linux centOS
+Redis k/v
+基本的数据结构和语法
+熟悉java语言
+
+数据库连接池
+存储过程
+CRM思想
+数据源
+关系性数据库概念
+缓存redis
+Nosql 
+MogoDB
+RabitMQ Zookeeper
+反向代理nginx
+Linux常用操作
+Es 
+Apache
+Dubbo SOA
+集群
+token 熔断
+LeetCode
+shiro
+jwt
